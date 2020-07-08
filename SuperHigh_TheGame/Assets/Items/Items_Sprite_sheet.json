@@ -1,0 +1,14 @@
+{ "columns":3,
+ "image":"Items_Sprite_sheet.png",
+ "imageheight":25,
+ "imagewidth":75,
+ "margin":0,
+ "name":"Items_Sprite_sheet",
+ "spacing":0,
+ "tilecount":3,
+ "tiledversion":"1.2.4",
+ "tileheight":25,
+ "tilewidth":25,
+ "type":"tileset",
+ "version":1.2
+}

@@ -1,0 +1,118 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+html {
+    overflow: hidden;
+}
+h1{
+    font-size: 500%;
+    color: forestgreen;
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 18%;
+
+}
+/*  STYLES STARTSEITE  */
+
+.start #background {
+    width: 100%;
+    height: 101%;
+    position: fixed;
+    top: -1%;
+    left: 0%;
+    z-index: -1;
+}
+
+.start .button {
+    display: inline-block;
+    padding: 1% 1%;
+    font-size: 290%;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #390;
+    border: none;
+    border-radius: 19px;
+    box-shadow: 0 9px black;
+    position: absolute;
+    margin-left: 30%;
+    width: 20%;
+    bottom: 8%;
+    height: 10%;
+    top: 50%;
+    left: 10%;
+}
+
+.start .button:active {
+    background-color: green;
+    box-shadow: 0 5px black;
+    transform: translateY(4px);
+}
+/* STARTSEITE STYLE ENDE */
+
+/* STYLES GAMEOVER*/
+.gameover #background {
+    width: 100%;
+    height: 101%;
+    position: fixed;
+    top: -1%;
+    left: 0%;
+    z-index: -1;
+}
+
+.gameover .button {
+    display: inline-block;
+    padding: 1% 1%;
+    font-size: 290%;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #390;
+    border: none;
+    border-radius: 19px;
+    box-shadow: 0 9px black;
+    position: absolute;
+    margin-left: 20%;
+    width: 20%;
+    bottom: 8%;
+    height: 10%;
+    top: 50%;
+    left: 10%;
+
+}
+.gameover #restart{
+    bottom: 8%;
+    height: 10%;
+    top: 50%;
+    left: 5%;
+}
+
+.gameover #outro{
+    bottom: 8%;
+    height: 10%;
+    top: 50%;
+    left: 27%;
+}
+
+.gameover .button:active {
+    background-color: #390;
+    box-shadow: 0 5px black;
+    transform: translateY(4px);
+}
+
+/* GAME OVER STYLES ENDE */
+
+canvas{
+    display: block;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

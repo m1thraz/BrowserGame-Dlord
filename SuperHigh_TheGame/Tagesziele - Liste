@@ -1,0 +1,78 @@
+Tagesziel für 17.05.2019:
+	* Figur auf das Spielfeld stellen
+
+ - Unterziele für das Tagesziel:
+	* Dem Spielfeld eine Logik geben.
+	* Anhand dieser Logik den Spieler statisch bewegen können.
+
+
+
+Tagesziel für 21.05.2019:
+	* Bewegende Figur im Spielfeld
+	
+ - Unterziele für das Tagesziel:
+	* Keymapping -> Das Eingeben der Tasten soll ein Objekt erstellen
+				    das erzeugte Objekt soll den Spieler auf dem Spielfeld manipulieren.
+				 
+
+
+Tagesziel für 23.05.2019:
+	* Springen auf dem leeren Boden 
+	* Platformen zum stehen, Weltelemente bauen.
+
+ - Unterziele für das Tagesziel:
+	* Code aufräumen, nur noch das was wirklich benötigt wird.
+
+
+
+Tagesziel für 24.05.2019:
+	* Kamera Fokus auf Spieler gesetzt
+	
+- Unterziele für das Tagesziel:
+	* Random Block-generator grund baustein
+
+
+
+Tagesziel für 25.05.2019:
+	* Optimiere PlatformErzeugenMethode
+
+
+
+Tagesziel für 31.05.2019:
+	* Items programmieren
+
+- Unterziele für das Tagesziel:
+	* Hot-Area ins Level packen
+
+
+
+Tagesziel für 04.06.2019:
+	* Items Funktionen geben
+		+ Item-Blau: langsamer laufen
+		+ Item-Grün: Höher Springen
+		+ Item-Rot: Was auch immer
+	
+- Unterziele für das Tagesziel:
+	* Spritesheets für die Figur & Items anpassen
+
+
+
+Tagesziel für 17.06.2019 - 18.06.2019:
+	* Das Spiel an die JSON-Änderungen anpassen.
+		+ Level 1 fertigstellen
+		+ Level 2 fertigstellen
+		+ Level 3 fertigstellen
+		+ Level 4 fertigstellen
+
+- Unterziele für das Tagesziel:
+	* Items einfügen.
+	* Items Fähigkeit geben.
+
+- Quellen zum fertigstellen:
+	* https://medium.com/@michaelwesthadley/modular-game-worlds-in-phaser-3-tilemaps-1-958fc7e6bbd6
+
+	* https://gamedevacademy.org/how-to-make-a-mario-style-platformer-with-phaser-3
+
+	* https://photonstorm.github.io/phaser3-docs/Phaser.Loader.FileTypes.SpriteSheetFile.html
+	
+
